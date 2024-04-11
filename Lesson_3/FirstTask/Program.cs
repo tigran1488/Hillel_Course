@@ -10,7 +10,7 @@
             hundreads = number1 / 100;
             tens = ((number1/10)%10);
             one = number1 % 10;     
-            Console.WriteLine($"число:{one+tens+hundreads}");
+            Console.WriteLine($"число під час прочитання його цифр справа наліво:{one}{tens}{hundreads}");
             Console.ReadKey();  
         }
     }
