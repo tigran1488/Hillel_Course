@@ -13,7 +13,7 @@ namespace MathTask
             double b = randomNumber2;
             double c = randomNumber3;
             Console.WriteLine($"a={a},b={b},c={c}");
-            double D = Math.Pow(b,2) -( 4 * a * c);
+            double D = Math.Pow(b,2) - 4 * a * c;
 
             if (D < 0)
             {

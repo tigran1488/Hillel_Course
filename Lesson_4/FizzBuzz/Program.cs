@@ -10,7 +10,6 @@
             //але потрібно отримати найбільш просте та красиве рішення.
             Console.WriteLine("Enter number 1 to 100:");
             int number = int.Parse(Console.ReadLine());
-
             if (number < 1 || number > 100)
             {
                 Console.WriteLine("Your number didnt match 1-100");
@@ -18,16 +17,17 @@
             else
             {
                 if (number % 3 == 0) { Console.WriteLine("Fizz"); }
-
                 if (number % 5 == 0) { Console.WriteLine("Buzz"); }
-
                 if (number % 15 == 0) { Console.WriteLine("FizzBuzz"); }
-
                 else Console.WriteLine($"Number: {number}");
             }
         }
     }
 }          
+
+
+
+
         
             
             
