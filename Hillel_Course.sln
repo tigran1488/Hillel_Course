@@ -35,15 +35,17 @@ Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "RandomGuess", "Lesson_5\Ran
 EndProject
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "MultiTable", "Lesson_5\MultiTable\MultiTable.csproj", "{2C9AFFD7-2C9C-4A65-9CEF-250A8E346B8F}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Task_1", "Lesson_6\Task_1\Task_1.csproj", "{D191D1E5-455D-4824-BFD4-A09B11BA9857}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Task_1", "Lesson_6\Task_1\Task_1.csproj", "{D191D1E5-455D-4824-BFD4-A09B11BA9857}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Task_2", "Lesson_6\Task_2\Task_2.csproj", "{7E9E2F7B-772E-498A-95FC-07D8915D5499}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Task_2", "Lesson_6\Task_2\Task_2.csproj", "{7E9E2F7B-772E-498A-95FC-07D8915D5499}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Task_3", "Lesson_6\Task_3\Task_3.csproj", "{59EC08B4-9089-418A-969A-DE9EA0D793FC}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Task_3", "Lesson_6\Task_3\Task_3.csproj", "{59EC08B4-9089-418A-969A-DE9EA0D793FC}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Task", "Task\Task.csproj", "{034ED17F-24A0-44DD-8A19-4E3CE4F15ECF}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Task", "Task\Task.csproj", "{034ED17F-24A0-44DD-8A19-4E3CE4F15ECF}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Task_4", "Lesson_6\Task_4\Task_4.csproj", "{1B29D112-E520-451D-B53D-B7BBCA912962}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Task_4", "Lesson_6\Task_4\Task_4.csproj", "{1B29D112-E520-451D-B53D-B7BBCA912962}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Student_marks", "Lesson_7\Student_marks\Student_marks.csproj", "{548D54B8-ECC0-40F8-8503-A776963212B5}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -135,6 +137,10 @@ Global
 		{1B29D112-E520-451D-B53D-B7BBCA912962}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{1B29D112-E520-451D-B53D-B7BBCA912962}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{1B29D112-E520-451D-B53D-B7BBCA912962}.Release|Any CPU.Build.0 = Release|Any CPU
+		{548D54B8-ECC0-40F8-8503-A776963212B5}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{548D54B8-ECC0-40F8-8503-A776963212B5}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{548D54B8-ECC0-40F8-8503-A776963212B5}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{548D54B8-ECC0-40F8-8503-A776963212B5}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
