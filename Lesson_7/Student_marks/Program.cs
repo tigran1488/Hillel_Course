@@ -31,7 +31,7 @@ namespace Student_marks
                         Console.WriteLine("Your choice: Average");
                         showGrades();
                         double averageGrade=СalculateAverage();
-                        Console.WriteLine($"\nСередня оцінка: {averageGrade}");
+                        Console.WriteLine($"\nСередня оцінка: {Math.Round(averageGrade,2)}");
                         break;
                     case ShopMenu.AddMarks:
                         Console.WriteLine("Your choice: AddMarks");
