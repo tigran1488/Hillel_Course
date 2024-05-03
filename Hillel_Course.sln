@@ -45,7 +45,9 @@ Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Task", "Task\Task.csproj", 
 EndProject
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Task_4", "Lesson_6\Task_4\Task_4.csproj", "{1B29D112-E520-451D-B53D-B7BBCA912962}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Student_marks", "Lesson_7\Student_marks\Student_marks.csproj", "{548D54B8-ECC0-40F8-8503-A776963212B5}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Student_marks", "Lesson_7\Student_marks\Student_marks.csproj", "{548D54B8-ECC0-40F8-8503-A776963212B5}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Cart", "Lesson_8\Cart\Cart.csproj", "{7D0A61EE-F516-4582-B69E-E33D360A02C7}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -141,6 +143,10 @@ Global
 		{548D54B8-ECC0-40F8-8503-A776963212B5}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{548D54B8-ECC0-40F8-8503-A776963212B5}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{548D54B8-ECC0-40F8-8503-A776963212B5}.Release|Any CPU.Build.0 = Release|Any CPU
+		{7D0A61EE-F516-4582-B69E-E33D360A02C7}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{7D0A61EE-F516-4582-B69E-E33D360A02C7}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{7D0A61EE-F516-4582-B69E-E33D360A02C7}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{7D0A61EE-F516-4582-B69E-E33D360A02C7}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
