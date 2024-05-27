@@ -11,7 +11,6 @@
             bird.MakeSound();
             bird.Move();
            
-          
         }
     }
 }
