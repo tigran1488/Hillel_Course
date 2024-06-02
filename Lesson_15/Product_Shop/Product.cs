@@ -4,7 +4,8 @@ using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
 using System.Linq;
-namespace ProductShop
+
+namespace Product_Shop
 {
     internal class Product
     {

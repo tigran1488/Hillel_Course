@@ -1,5 +1,4 @@
-﻿
-namespace ProductShop
+﻿namespace Product_Shop
 {
     internal class Program
     {
@@ -45,6 +44,6 @@ namespace ProductShop
                 Console.WriteLine(item);
             }
             Console.WriteLine($"\nTotal price: {cart.GetTotalPrice()}$");
-        }   
+        }
     }
 }

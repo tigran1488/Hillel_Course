@@ -4,20 +4,21 @@ using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
 using System.Linq;
-namespace ProductShop
+
+namespace Product_Shop
 {
     internal class Cart
     {
-       public List<Product> cartItems= new List<Product>();
-        public void AddToCart(Product product) 
+        public List<Product> cartItems = new List<Product>();
+        public void AddToCart(Product product)
         {
             cartItems.Add(product);
         }
-        public void RemoveFromCart(int productId) 
+        public void RemoveFromCart(int productId)
         {
-            cartItems.RemoveAll(p=>p.Id==productId);
+            cartItems.RemoveAll(p => p.Id == productId);
         }
-        public decimal GetTotalPrice() 
+        public decimal GetTotalPrice()
         {
             return cartItems.Sum(p => p.Price);
         }
