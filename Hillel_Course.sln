@@ -65,9 +65,11 @@ Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Transport", "Lesson_12\Tran
 EndProject
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Animal_Task", "Lesson_13\Animal_Task\Animal_Task.csproj", "{DCC6FC0D-5C3A-4521-8C31-55685CB4F70D}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Interface_Task", "Lesson_14\Interface_Task\Interface_Task.csproj", "{93E2FE71-C63E-46D0-9AE3-A60E06FE24D6}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Interface_Task", "Lesson_14\Interface_Task\Interface_Task.csproj", "{93E2FE71-C63E-46D0-9AE3-A60E06FE24D6}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Static_Task", "Lesson_14\Static_Task\Static_Task.csproj", "{927111B6-0762-4489-96E6-F102AC709E22}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Static_Task", "Lesson_14\Static_Task\Static_Task.csproj", "{927111B6-0762-4489-96E6-F102AC709E22}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ProductShop", "ProductShop\ProductShop.csproj", "{15BBBFAA-3E98-4900-978E-C9C4A6E28A65}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -207,6 +209,10 @@ Global
 		{927111B6-0762-4489-96E6-F102AC709E22}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{927111B6-0762-4489-96E6-F102AC709E22}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{927111B6-0762-4489-96E6-F102AC709E22}.Release|Any CPU.Build.0 = Release|Any CPU
+		{15BBBFAA-3E98-4900-978E-C9C4A6E28A65}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{15BBBFAA-3E98-4900-978E-C9C4A6E28A65}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{15BBBFAA-3E98-4900-978E-C9C4A6E28A65}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{15BBBFAA-3E98-4900-978E-C9C4A6E28A65}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
