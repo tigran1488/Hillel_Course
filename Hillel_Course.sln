@@ -71,6 +71,8 @@ Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Static_Task", "Lesson_14\St
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Product_Shop", "Lesson_15\Product_Shop\Product_Shop.csproj", "{5663926B-78A1-478A-A023-2F2838265BA6}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Contact_catalog", "Lesson_15\Contact_catalog\Contact_catalog.csproj", "{186A571E-9538-4017-9CE9-54B980DE6F45}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -213,6 +215,10 @@ Global
 		{5663926B-78A1-478A-A023-2F2838265BA6}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{5663926B-78A1-478A-A023-2F2838265BA6}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{5663926B-78A1-478A-A023-2F2838265BA6}.Release|Any CPU.Build.0 = Release|Any CPU
+		{186A571E-9538-4017-9CE9-54B980DE6F45}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{186A571E-9538-4017-9CE9-54B980DE6F45}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{186A571E-9538-4017-9CE9-54B980DE6F45}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{186A571E-9538-4017-9CE9-54B980DE6F45}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
